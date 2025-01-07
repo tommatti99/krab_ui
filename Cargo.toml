@@ -9,6 +9,6 @@ repository = "https://github.com/tommatti99/krab_ui"
 documentation = "https://docs.rs/krab_ui" 
 homepage = "https://github.com/tommatti99/krab_ui" 
 keywords = ["rust", "ui", "crate"]
-categories = ["ui, ux, ui-ux, user interface, user experience"]  
+categories = ["graphics", "tools", "development-tools"]
 
 [dependencies]
