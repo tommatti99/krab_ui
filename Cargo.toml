@@ -12,3 +12,4 @@ keywords = ["rust", "ui", "crate"]
 categories = ["graphics", "development-tools"]
 
 [dependencies]
+yew = "0.21.0"
