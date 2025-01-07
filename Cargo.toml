@@ -2,5 +2,13 @@
 name = "krab_ui"
 version = "0.1.0"
 edition = "2021"
+authors = ["André <andre.rodrigues9911@gmail.com>"]
+description = "Descrição breve da sua crate"
+license = "MIT" 
+repository = "https://github.com/tommatti99/krab_ui" 
+documentation = "https://docs.rs/krab_ui" 
+homepage = "https://github.com/tommatti99/krab_ui" 
+keywords = ["rust", "ui", "crate"]
+categories = ["ui, ux, ui-ux, user interface, user experience"]  
 
 [dependencies]
